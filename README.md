@@ -5,12 +5,12 @@
 
 ## Overview
 
-GeoScripts is a collection of Python scripts designed to automate GIS tasks using `QGIS` and python libraries like `geopanda`. Below is the documentation for each script in the repository.
+GeoScripts is a collection of Python scripts designed to automate GIS tasks using `QGIS` and Python libraries like `geopanda`. Below is the documentation for each script in the repository.
 
 ### Scripts
 
-- `qgis_buffer_folder.py`
-- `multithread_interesect_as_layer_bar.py`
+- [qgis_buffer_folder.py](#qgis_buffer_folder.py)
+- [spatial_layer_processor.py](#spatial_layer_processor.py)
 
 ## qgis_buffer_folder.py
 
