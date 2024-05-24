@@ -14,9 +14,6 @@ GeoScripts is a collection of Python scripts designed to automate GIS tasks usin
 
 ## qgis_buffer_folder
 
-**Author:** Peter Manko Jr.  
-**Project available at:** https://github.com/PeterManko/GeoScripts
-
 ### Overview
 
 The `qgis_buffer_folder.py` script processes a set of GeoJSON files, buffers each layer, adds them to a QGIS project, and saves the buffered layers as new GeoJSON files.
