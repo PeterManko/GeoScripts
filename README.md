@@ -9,10 +9,10 @@ GeoScripts is a collection of Python scripts designed to automate GIS tasks usin
 
 ### Scripts
 
-- [qgis_buffer_folder.py](#qgis_buffer_folder.py)
-- [spatial_layer_processor.py](#spatial_layer_processor.py)
+- [qgis_buffer_folder.py](#qgis_buffer_folder)
+- [spatial_layer_processor.py](#spatial_layer_processor)
 
-## qgis_buffer_folder.py
+## qgis_buffer_folder
 
 **Author:** Peter Manko Jr.  
 **Project available at:** https://github.com/PeterManko/GeoScripts
@@ -56,7 +56,7 @@ To run this script, you will need:
     - Make sure QGIS and its Python environment are properly set up.
     - Execute the script within the QGIS Python environment.
 
-## spatial_layer_processor.py
+## spatial_layer_processor
 
 ### Overview
 
